@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class logical {
     public static void main(String[] args) {
 
-      // && (AND) , || (OR) , != (NOT EQUAL)
+      // && (AND) , || (OR) , !(P==Q) (NOT EQUAL)
 
          Scanner sc = new Scanner(System.in);
          int p = sc.nextInt();
